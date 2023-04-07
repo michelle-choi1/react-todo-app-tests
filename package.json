@@ -1,0 +1,13 @@
+{
+  "name": "react-todo-app-tests",
+  "version": "1.0.0",
+  "description": "E2E Playwright tests for https://github.com/ShaifArfan/react-todo-app",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.32.2"
+  }
+}
